@@ -1,5 +1,6 @@
-Los datos que se conderan para pruebas:
-Moneda de origen:
-Moneda de destino:
-Fecha de inicio efectiva:
-Tasa de cambio:
+
+The data that is considered for testing:
+Origin currency:
+Destination currency:
+Effective start date:
+Exchange rate:
