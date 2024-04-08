@@ -1,0 +1,21 @@
+Test case 7
+Description: Validate the NON-existence of exchange rates with the source and destination currency pair
+CP006: Validate NON-existing exchange rates
+Test Cycle: Cycle 1 (Indicate the cycle in which the test case is executed)
+Test Plan: Test Plan 1 (Indicate the corresponding plan)
+
+Test cases7:
+Steps:
+Number:
+Step summary:
+Test data:
+Expected results:
+Attachments (Evidence of Execution)
+State:
+
+Number:
+Step summary:
+Test data:
+Expected results:
+Attachments (Evidence of Execution)
+State:

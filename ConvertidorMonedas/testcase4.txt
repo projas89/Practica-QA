@@ -1,0 +1,21 @@
+Test case 4
+Description: Validate incomplete exchange rate
+CP004: Validate incomplete exchange rate
+Test Cycle: Cycle 1 (Indicate the cycle in which the test case is executed)
+Test Plan: Test Plan 1 (Indicate the corresponding plan)
+
+Test cases1:
+Steps:
+Number:
+Step Summary:
+Test data:
+Expected results:
+Attachments (Evidence of Execution)
+State:
+
+Number:
+Step Summary:
+Test data:
+Expected results:
+Attachments (Evidence of Execution)
+State:

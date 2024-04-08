@@ -1,0 +1,21 @@
+Test case 3
+Description: Validate exchange rates as a complete set
+CP003: Validate exchange rates as a complete set
+Test Cycle: Cycle 1 (Indicate the cycle in which the test case is executed)
+Test Plan: Test Plan 1 (Indicate the corresponding plan)
+
+Test cases1:
+Steps:
+Number:
+Step summary:
+Test data:
+Expected results:
+Attachments (Evidence of Execution)
+State:
+
+Number:
+Step summary:
+Test data:
+Expected results:
+Attachments (Evidence of Execution)
+State:

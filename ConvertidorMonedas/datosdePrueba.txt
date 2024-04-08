@@ -1,0 +1,5 @@
+Los datos que se conderan para pruebas:
+Moneda de origen:
+Moneda de destino:
+Fecha de inicio efectiva:
+Tasa de cambio:

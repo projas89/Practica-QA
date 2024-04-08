@@ -1,0 +1,21 @@
+Test case 2
+Description: Validation direct data loading
+CP002: Validation direct data loading
+Test Cycle: Cycle 1 (Indicate the cycle in which the test case is executed)
+Test Plan: Test Plan 1 (Indicate the corresponding plan)
+
+Test cases1:
+Steps:
+Number:001
+Step Summary: Record valid data for testing
+Test data: (Valid data considered for testing)
+Expected Results: Successful access
+Attachments (Evidence of Execution)
+State:
+
+Number:002
+Step summary: Register invalid information
+Test data: (Invalid data considered for testing)
+Expected Results: Error
+Attachments (Evidence of Execution)
+State:

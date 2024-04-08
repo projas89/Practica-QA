@@ -1,1 +1,23 @@
-Caso de prueba1 
+Test case 1
+Description: Service Validation
+CP001: Service validation
+Test Cycle: Cycle 1 (Indicate the cycle in which the test case is executed)
+Test Plan: Test Plan 1 (Indicate the corresponding plan)
+
+Test cases1:
+**Steps:
+Number: 01
+Step summary:Access the service
+Test data: service url (Currency Conversion)
+Expected results: code 200ok
+Attachments (Evidence of Execution):
+State:
+
+NOTE: It depends on the Apy, authorization, Headers and Body are validated
+
+Number: 02
+Step Summary:
+Test data:
+Expected results:
+Attachments (Evidence of Execution)
+State:

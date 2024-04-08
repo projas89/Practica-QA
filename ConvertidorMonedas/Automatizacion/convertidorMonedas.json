@@ -1,0 +1,54 @@
+{
+	"info": {
+		"_postman_id": "5cebdb0c-f6fe-480c-ad24-83c9a8082aba",
+		"name": "Test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "34122956"
+	},
+	"item": [
+		{
+			"name": "Convertidor de monedas",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://www.oanda.com/currency-converter/es/?from=EUR&to=USD&amount=1",
+					"protocol": "https",
+					"host": [
+						"www",
+						"oanda",
+						"com"
+					],
+					"path": [
+						"currency-converter",
+						"es",
+						""
+					],
+					"query": [
+						{
+							"key": "from",
+							"value": "EUR"
+						},
+						{
+							"key": "to",
+							"value": "USD"
+						},
+						{
+							"key": "amount",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
