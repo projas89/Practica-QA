@@ -1,0 +1,29 @@
+{
+  "name": "cp-github",
+  "version": "1.0.0",
+  "description": "E2E Framework Testing Cypress",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projas89/Cypress.git"
+  },
+  "keywords": [
+    "E2e",
+    "automation",
+    "framework",
+    "cypress"
+  ],
+  "author": "projas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/projas89/Cypress/issues"
+  },
+  "homepage": "https://github.com/projas89/Cypress#readme",
+  "devDependencies": {
+    "cypress": "^13.7.2"
+  }
+}
